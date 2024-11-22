@@ -1,0 +1,6 @@
+Projects:
+
+- Bakup Server
+- Connecting with AWS
+- Backup from Local AWS
+- Flask App to Main Server
