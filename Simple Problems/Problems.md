@@ -27,3 +27,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 08: Calculate Sum of 5 Subjects and find Percentage
+
+---
+#### Problem 09: Compare two Integers
