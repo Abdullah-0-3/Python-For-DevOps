@@ -21,3 +21,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 06: Calculate Area of Right Angle Triangle
+
+---
+#### Problem 07L Calculate Area of a Rectangle
