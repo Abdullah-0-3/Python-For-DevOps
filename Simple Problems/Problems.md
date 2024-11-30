@@ -21,3 +21,12 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 06: Calculate Area of Right Angle Triangle
+
+---
+#### Problem 07: Calculate Area of a Rectangle
+
+---
+#### Problem 08: Calculate Sum of 5 Subjects and find Percentage
+
+---
+#### Problem 09: Compare two Integers
