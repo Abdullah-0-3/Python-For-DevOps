@@ -23,4 +23,7 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 #### Problem 06: Calculate Area of Right Angle Triangle
 
 ---
-#### Problem 07L Calculate Area of a Rectangle
+#### Problem 07: Calculate Area of a Rectangle
+
+---
+#### Problem 08: Calculate Sum of 5 Subjects and find Percentage
