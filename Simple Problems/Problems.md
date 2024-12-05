@@ -36,3 +36,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 11: Number is Even or Odd
+
+---
+#### Problem 12: Finding Number is Positive, Negative or Zero
