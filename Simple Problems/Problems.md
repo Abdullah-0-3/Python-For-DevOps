@@ -30,3 +30,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 09: Compare two Integers
+
+--- 
+#### Problem 10: Compare theree Integers
