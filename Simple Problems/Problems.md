@@ -33,3 +33,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 --- 
 #### Problem 10: Compare theree Integers
+
+---
+#### Problem 11: Number is Even or Odd
