@@ -39,3 +39,9 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 12: Finding Number is Positive, Negative or Zero
+
+---
+#### Problem 13: Swap two numbers using variable named temp
+
+---
+#### Problem 14: Convert Tempreature from Degree Celsius to Fahrenheit
