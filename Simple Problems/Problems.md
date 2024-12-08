@@ -48,3 +48,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 15: Printing 10 Natural Numbers using For Loop.
+
+---
+#### Problem 16: Printing 10 Natural Numbers using While Loop.
