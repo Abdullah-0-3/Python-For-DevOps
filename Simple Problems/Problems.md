@@ -45,3 +45,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 14: Convert Tempreature from Degree Celsius to Fahrenheit
+
+---
+#### Problem 15: Printing 10 Natural Numbers using For Loop.
