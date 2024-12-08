@@ -51,3 +51,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 16: Printing 10 Natural Numbers using While Loop.
+
+---
+#### Problem 17: Check whether number is Prime or Not.
