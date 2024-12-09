@@ -54,3 +54,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 17: Check whether number is Prime or Not.
+
+---
+#### Problem 18: Find a table of a number upto 12.
