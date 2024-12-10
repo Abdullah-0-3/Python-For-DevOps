@@ -63,3 +63,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 20: Print Even Numbers form 1 to 20
+
+---
+#### Problem 20: Print Odd Numbers form 1 to 20
