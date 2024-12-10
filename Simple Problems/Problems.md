@@ -60,3 +60,6 @@ I am solving problems from **Computer Science Practical Notebook for Class 10**.
 
 ---
 #### Problem 19: Printing table of a Number
+
+---
+#### Problem 20: Print Even Numbers form 1 to 20
